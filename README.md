@@ -39,7 +39,7 @@ Jalankan file main.ipynb dengan menekan "Run All"
 ## Pembagian Tugas
 | **Kegiatan**                       | **Nama (NIM)**                 |
 |------------------------------------|--------------------------------|
-| Melakukan Data Cleaning dan Preprocessing, Membuat error Analysis, Membuat Laporan mengenai Pembahasan          | Akmal Galih Aji Suseno (18222046)    |
+| Melakukan Data Cleaning dan Preprocessing, Membuat error Analysis, Membuat Laporan mengenai Pembahasan          | Akmal Galih Aji Sugmo Seno (18222046)    |
 | Membuat Data Preprocessing, Membuat Data Pipeline, Membuat Implementasi Algoritma KNN, Membuat Laporan KNN, Membuat Laporan Data Preprocessings | Raizan Iqbal Resi (18222068) |
 | Melakukan Data Cleaning, Membuat Implementasi Algoritma Gaussian Naive-Bayes, Membuat Laporan Gaussian Naive-Bayes           | Muhammad Kevinza Faiz (18222072) |
 | Melakukan Data Cleaning dan Preprocessing,  Membuat Laporan Data Cleaning dan Preprocessing    | Muhammad Raihan Ariffianto (18222092) |
