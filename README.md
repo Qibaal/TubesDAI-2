@@ -40,13 +40,6 @@ Jalankan file .ipynb dengan menekan "Run All"
 | **Kegiatan**                       | **Nama (NIM)**                 |
 |------------------------------------|--------------------------------|
 |           | Akmal Galih Aji Suseno (18222046)    |
-| Membuat Data Preprocessing
-Membuat Data Pipeline
-Pembuatan KNN
-Membuat Laporan KNN
-Membuat Laporan Data Preprocessings | Raizan Iqbal Resi (18222068) |
+| Membuat Data Preprocessing, Membuat Data Pipeline, Pembuatan KNN, Membuat Laporan KNN, Membuat Laporan Data Preprocessings | Raizan Iqbal Resi (18222068) |
 |              | Muhammad Kevinza Faiz (18222072) |
-| -Membuat Data Cleaning
--Membuat Data Preprocessing
-- Membuat Laporan Data Cleaning dan Preprocessing
-    | Muhammad Raihan Ariffianto (18222092) |
+| Membuat Data Cleaning, Membuat Data Preprocessing,  Membuat Laporan Data Cleaning dan Preprocessing    | Muhammad Raihan Ariffianto (18222092) |
