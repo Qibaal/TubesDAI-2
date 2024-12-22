@@ -33,8 +33,8 @@ Install semua library yang dibutuhkan pada 'requirements.txt'
 pip install -r requirements.txt
 ```
 
-### **3. Jalankan Program***
-Jalankan file .ipynb dengan menekan "Run All"
+### **3. Jalankan Program**
+Jalankan file main.ipynb dengan menekan "Run All"
 
 ## Pembagian Tugas
 | **Kegiatan**                       | **Nama (NIM)**                 |
